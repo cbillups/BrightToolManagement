@@ -1,0 +1,166 @@
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\ApplicationInsights.config
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\roslyn\csc.exe
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\roslyn\vbc.exe
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\roslyn\VBCSCompiler.exe
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\BrightToolsManagement.dll.config
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\BrightToolsManagement.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\BrightToolsManagement.pdb
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\WebForms_Basic.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Antlr3.Runtime.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\AspNet.ScriptManager.jQuery.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\EntityFramework.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\EntityFramework.SqlServer.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AI.Web.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Security.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Newtonsoft.Json.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Owin.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\System.Web.Optimization.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\System.Web.Providers.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\WebGrease.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AI.Web.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\System.Web.Optimization.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Antlr3.Runtime.pdb
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Newtonsoft.Json.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\EntityFramework.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\EntityFramework.SqlServer.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\System.Web.Providers.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Security.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\obj\Debug\BrightToolsManagement.vbprojResolveAssemblyReference.cache
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\obj\Debug\BrightToolsManagement.Resources.resources
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\obj\Debug\BrightToolsManagement.vbproj.GenerateResource.Cache
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\obj\Debug\BrightToolsManagement.dll
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\obj\Debug\WebForms_Basic.xml
+C:\Horizon\Bright Plastics\CostAnalysis\BrightToolsManagement\obj\Debug\BrightToolsManagement.pdb
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\ApplicationInsights.config
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\roslyn\csc.exe
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\roslyn\vbc.exe
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\roslyn\VBCSCompiler.exe
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Antlr3.Runtime.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\EntityFramework.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\EntityFramework.SqlServer.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AI.Web.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Security.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Newtonsoft.Json.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Owin.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\System.Web.Optimization.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\System.Web.Providers.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\WebGrease.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AI.Web.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\System.Web.Optimization.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Antlr3.Runtime.pdb
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Newtonsoft.Json.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\EntityFramework.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\EntityFramework.SqlServer.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\System.Web.Providers.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Security.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\obj\Debug\BrightToolsManagement.Resources.resources
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\obj\Debug\BrightToolsManagement.vbproj.GenerateResource.cache
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\obj\Debug\BrightToolsManagement.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\obj\Debug\WebForms_Basic.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\obj\Debug\BrightToolsManagement.pdb
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\BrightToolsManagement.dll.config
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\BrightToolsManagement.dll
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\BrightToolsManagement.pdb
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\bin\WebForms_Basic.xml
+C:\Projects\BrightPlastics\BrightToolsManagement\BrightToolsManagement\obj\Debug\BrightToolsManagement.vbprojResolveAssemblyReference.cache
